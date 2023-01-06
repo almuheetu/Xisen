@@ -1,0 +1,131 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .access-img-2 img {
+        margin-right: 0;
+        margin-left: -148px;
+    }
+	
+}
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+    .main-menu ul li {
+        margin: 0 10px;
+    }
+    .access-img > img {
+        margin-left: 0;
+    }
+    .testimonial-img > img {
+        margin-left: 0;
+    }
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.header-area {
+        padding: 20px 0;
+    }
+    .slider-text {
+        margin-bottom: 30px;
+    }
+    .shape-1 {
+        left: 10%;
+        top: 8%;
+    }
+    .access-img > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .access-text {
+        margin-bottom: 30px;
+    }
+    .testimonial-img > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    #slick-slide11 {
+        display: none;
+    }
+    .newsletter input {
+        width: 65%;
+    }
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .header-area {
+        padding: 20px 0;
+    }
+    .slider-text {
+        margin-bottom: 30px;
+    }
+    .shape-1 {
+        left: 10%;
+        top: 8%;
+    }
+    .access-img > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .access-text {
+        margin-bottom: 30px;
+    }
+    #slick-slide11 {
+        display: none;
+    }
+    .testimonial-img > img {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .owl-nav.slick-slide.slick-active {
+        display: none;
+    }
+    .slider-text > h2 {
+        font-size: 35px;
+    }
+    .slider-img img {
+        max-width: 100%;
+    }
+    .access-text > h3 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+    .section-title > h2 {
+        font-size: 32px;
+    }
+    .access-text > h3 {
+        font-size: 30px;
+    }
+    .Shapes-3.Shape-10 {
+        left: 77%;
+        top: 84%;
+    }
+    .Shapes-6.Shape-12 {
+        left: 78%;
+        top: 23%;
+    }
+    .newsletter input { 
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .newsletter button {
+        float: none;
+    }
+    .footer-menu ul li {
+        margin-left: 3px;
+    }
+	
+}
+    
+    /* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	
+}
+
+@media only screen and (min-width: 320px) and (max-width: 575px) {
+	
+}
