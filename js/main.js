@@ -104,7 +104,9 @@ $('.testimonial-active').owlCarousel({
         },
         992:{
             items:1
-        }
+        },1900: {
+          items:1
+      }
     }
 })
 

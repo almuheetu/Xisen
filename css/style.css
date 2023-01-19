@@ -750,6 +750,14 @@ label {
 
 
 
+.single-brand {
+	width: fit-content;
+}
+.slick-track {
+	width: 100% !important;
+}
+
+
 
 
 
